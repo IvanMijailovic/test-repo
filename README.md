@@ -1,4 +1,5 @@
 test-repo
 =========
 
-Firstt test repo
+First test repo
+This is my first repo
